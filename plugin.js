@@ -7,6 +7,7 @@
 // @match        https://danbooru.donmai.us/uploads/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
+// @updateURL    https://github.com/yanny-chkv/danbooru-saved-unpld-tags/raw/main/plugin.js
 // @downloadURL  https://github.com/yanny-chkv/danbooru-saved-unpld-tags/raw/main/plugin.js
 // ==/UserScript==
 
